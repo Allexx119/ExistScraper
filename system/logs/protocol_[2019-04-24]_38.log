@@ -1,9 +1,0 @@
-1	[2019-04-24] [14:45:56.455]	Start program
-2	[2019-04-24] [14:46:16.837]	Open: https://www.exist.ru
-3	[2019-04-24] [14:46:23.913]	https://www.exist.ru successfully opened
-4	[2019-04-24] [14:46:47.191]	Source files/source/articles.xlsx loaded, length: 684
-5	[2019-04-24] [14:46:47.232]	ReferenceError: start is not defined
-6	[2019-04-24] [14:46:53.508]	Open: https://www.exist.ru
-7	[2019-04-24] [14:46:56.254]	https://www.exist.ru successfully opened
-8	[2019-04-24] [14:46:57.255]	Source files/source/articles.xlsx loaded, length: 684
-9	[2019-04-24] [14:46:57.255]	ReferenceError: start is not defined
