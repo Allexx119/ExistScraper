@@ -1,0 +1,37 @@
+1	[2019-04-25] [13:48:38.632]	Start program
+2	[2019-04-25] [13:48:40.634]	Open: https://www.exist.ru
+3	[2019-04-25] [13:48:43.486]	https://www.exist.ru successfully opened
+4	[2019-04-25] [13:48:56.314]	Source files/source/articles.xlsx loaded, length: 2
+5	[2019-04-25] [13:48:56.314]	Start main sequence.
+6	[2019-04-25] [13:48:56.315]	Scraping https://www.exist.ru from article #1 4014766073419
+7	[2019-04-25] [13:48:56.315]	Scraping article: #1 4014766073419 | category: Масло | https://www.exist.ru/Price/?pcode=4014766073419
+8	[2019-04-25] [13:48:59.444]	https://www.exist.ru/Price/?pcode=4014766073419 successfully opened
+9	[2019-04-25] [13:48:59.444]	Wait for: 1229
+10	[2019-04-25] [13:49:00.674]		Analyse page
+11	[2019-04-25] [13:49:00.679]		Handle errors
+12	[2019-04-25] [13:49:00.679]		Start scraper
+13	[2019-04-25] [13:49:00.679]	Get #priceBody.innerHTML
+14	[2019-04-25] [13:49:00.680]	Scraping https://www.exist.ru from article #2 352532
+15	[2019-04-25] [13:49:00.680]	Scraping article: #2 352532 | category: пневматическая подвеска | https://www.exist.ru/Price/?pcode=352532
+16	[2019-04-25] [13:49:01.933]	https://www.exist.ru/Price/?pcode=352532 successfully opened
+17	[2019-04-25] [13:49:01.933]	Wait for: 1460
+18	[2019-04-25] [13:49:03.393]		Analyse page
+19	[2019-04-25] [13:49:03.396]		Handle errors
+20	[2019-04-25] [13:49:03.396]		Start scraper
+21	[2019-04-25] [13:49:03.396]	Get #priceBody.innerHTML
+22	[2019-04-25] [13:49:03.397]	***
+23	[2019-04-25] [13:49:03.398]	Script execution finished.
+24	[2019-04-25] [13:49:03.459]	Page scrape 1 analogs
+25	[2019-04-25] [13:49:47.534]	Source files/source/articles.xlsx loaded, length: 2
+26	[2019-04-25] [13:49:47.534]	Start main sequence.
+27	[2019-04-25] [13:49:47.534]	Scraping https://www.exist.ru from article #2 352532
+28	[2019-04-25] [13:49:47.534]	Scraping article: #2 352532 | category: пневматическая подвеска | https://www.exist.ru/Price/?pcode=352532
+29	[2019-04-25] [13:49:49.465]	https://www.exist.ru/Price/?pcode=352532 successfully opened
+30	[2019-04-25] [13:49:49.466]	Wait for: 1045
+31	[2019-04-25] [13:49:50.523]		Analyse page
+32	[2019-04-25] [13:49:50.527]		Handle errors
+33	[2019-04-25] [13:49:50.527]		Start scraper
+34	[2019-04-25] [13:49:50.527]	Get #priceBody.innerHTML
+35	[2019-04-25] [13:49:50.529]	***
+36	[2019-04-25] [13:49:50.529]	Script execution finished.
+37	[2019-04-25] [13:49:50.576]	Page scrape 1 analogs

@@ -1,0 +1,62 @@
+1	[2019-04-24] [08:20:22.973]	Start program
+2	[2019-04-24] [08:20:27.341]	Open: https://www.exist.ru
+3	[2019-04-24] [08:20:31.118]	https://www.exist.ru successfully opened
+4	[2019-04-24] [08:20:59.875]	Login successfully.
+5	[2019-04-24] [08:21:15.177]	Source files/source/articles.xlsx loaded, length: 684
+6	[2019-04-24] [08:21:15.177]	Results files/result/result.xlsx loaded, length: 3568
+7	[2019-04-24] [08:21:15.177]	Scraping https://www.exist.ru from article #75 1300266
+8	[2019-04-24] [08:21:15.178]	Start main sequence.
+9	[2019-04-24] [08:21:15.178]	ReferenceError: step is not defined
+10	[2019-04-24] [08:21:17.500]	Open: https://www.exist.ru
+11	[2019-04-24] [08:21:20.268]	https://www.exist.ru successfully opened
+12	[2019-04-24] [08:21:24.384]	Login successfully.
+13	[2019-04-24] [08:21:24.386]	Source files/source/articles.xlsx loaded, length: 684
+14	[2019-04-24] [08:21:24.386]	Results files/result/result.xlsx loaded, length: 3569
+15	[2019-04-24] [08:21:24.387]	Scraping https://www.exist.ru from article #75 1300266
+16	[2019-04-24] [08:21:24.387]	Start main sequence.
+17	[2019-04-24] [08:21:24.387]	ReferenceError: step is not defined
+18	[2019-04-24] [08:21:25.708]	Open: https://www.exist.ru
+19	[2019-04-24] [08:21:28.793]	https://www.exist.ru successfully opened
+20	[2019-04-24] [08:21:32.709]	Login successfully.
+21	[2019-04-24] [08:21:32.709]	Source files/source/articles.xlsx loaded, length: 684
+22	[2019-04-24] [08:21:32.709]	Results files/result/result.xlsx loaded, length: 3570
+23	[2019-04-24] [08:21:32.710]	Scraping https://www.exist.ru from article #75 1300266
+24	[2019-04-24] [08:21:32.710]	Start main sequence.
+25	[2019-04-24] [08:21:32.710]	ReferenceError: step is not defined
+26	[2019-04-24] [08:21:34.582]	Open: https://www.exist.ru
+27	[2019-04-24] [08:21:37.753]	https://www.exist.ru successfully opened
+28	[2019-04-24] [08:21:42.570]	Login successfully.
+29	[2019-04-24] [08:21:42.571]	Source files/source/articles.xlsx loaded, length: 684
+30	[2019-04-24] [08:21:42.571]	Results files/result/result.xlsx loaded, length: 3571
+31	[2019-04-24] [08:21:42.571]	Scraping https://www.exist.ru from article #75 1300266
+32	[2019-04-24] [08:21:42.571]	Start main sequence.
+33	[2019-04-24] [08:21:42.572]	ReferenceError: step is not defined
+34	[2019-04-24] [08:21:45.293]	Open: https://www.exist.ru
+35	[2019-04-24] [08:21:49.030]	https://www.exist.ru successfully opened
+36	[2019-04-24] [08:21:53.010]	Login successfully.
+37	[2019-04-24] [08:21:53.011]	Source files/source/articles.xlsx loaded, length: 684
+38	[2019-04-24] [08:21:53.011]	Results files/result/result.xlsx loaded, length: 3572
+39	[2019-04-24] [08:21:53.011]	Scraping https://www.exist.ru from article #75 1300266
+40	[2019-04-24] [08:21:53.011]	Start main sequence.
+41	[2019-04-24] [08:21:53.011]	ReferenceError: step is not defined
+42	[2019-04-24] [08:21:54.792]	Open: https://www.exist.ru
+43	[2019-04-24] [08:21:57.451]	https://www.exist.ru successfully opened
+44	[2019-04-24] [08:22:01.860]	Login successfully.
+45	[2019-04-24] [08:22:01.861]	Source files/source/articles.xlsx loaded, length: 684
+46	[2019-04-24] [08:22:01.861]	Results files/result/result.xlsx loaded, length: 3573
+47	[2019-04-24] [08:22:01.861]	Scraping https://www.exist.ru from article #75 1300266
+48	[2019-04-24] [08:22:01.861]	Start main sequence.
+49	[2019-04-24] [08:22:01.861]	ReferenceError: step is not defined
+50	[2019-04-24] [08:22:03.553]	Open: https://www.exist.ru
+51	[2019-04-24] [08:22:06.139]	https://www.exist.ru successfully opened
+52	[2019-04-24] [08:22:10.176]	Login successfully.
+53	[2019-04-24] [08:22:10.177]	Source files/source/articles.xlsx loaded, length: 684
+54	[2019-04-24] [08:22:10.177]	Results files/result/result.xlsx loaded, length: 3574
+55	[2019-04-24] [08:22:10.177]	Scraping https://www.exist.ru from article #75 1300266
+56	[2019-04-24] [08:22:10.177]	Start main sequence.
+57	[2019-04-24] [08:22:10.177]	ReferenceError: step is not defined
+58	[2019-04-24] [08:22:11.564]	Open: https://www.exist.ru
+59	[2019-04-24] [08:22:13.850]	https://www.exist.ru successfully opened
+60	[2019-04-24] [08:22:16.774]	Open: https://www.exist.ru
+61	[2019-04-24] [08:22:18.853]	Open: https://www.exist.ru
+62	[2019-04-24] [08:22:21.340]	Exit program

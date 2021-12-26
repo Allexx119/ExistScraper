@@ -1,0 +1,31 @@
+1	[2019-04-24] [14:58:04.508]	Start program
+2	[2019-04-24] [14:58:05.709]	Open: https://www.exist.ru
+3	[2019-04-24] [14:58:08.357]	https://www.exist.ru successfully opened
+4	[2019-04-24] [14:58:31.634]	Source files/source/articles.xlsx loaded, length: 684
+5	[2019-04-24] [14:58:31.635]	Start main sequence.
+6	[2019-04-24] [14:58:31.635]	Scraping https://www.exist.ru from article #1 326012
+7	[2019-04-24] [14:58:31.635]	ReferenceError: start is not defined
+8	[2019-04-24] [14:58:35.608]	Open: https://www.exist.ru
+9	[2019-04-24] [14:58:38.973]	https://www.exist.ru successfully opened
+10	[2019-04-24] [14:58:39.975]	Source files/source/articles.xlsx loaded, length: 684
+11	[2019-04-24] [14:58:39.975]	Start main sequence.
+12	[2019-04-24] [14:58:39.975]	Scraping https://www.exist.ru from article #1 326012
+13	[2019-04-24] [14:58:39.975]	ReferenceError: start is not defined
+14	[2019-04-24] [14:58:42.320]	Open: https://www.exist.ru
+15	[2019-04-24] [14:58:46.659]	https://www.exist.ru successfully opened
+16	[2019-04-24] [14:58:47.659]	Source files/source/articles.xlsx loaded, length: 684
+17	[2019-04-24] [14:58:47.660]	Start main sequence.
+18	[2019-04-24] [14:58:47.660]	Scraping https://www.exist.ru from article #1 326012
+19	[2019-04-24] [14:58:47.660]	ReferenceError: start is not defined
+20	[2019-04-24] [14:58:51.509]	Open: https://www.exist.ru
+21	[2019-04-24] [14:58:54.868]	https://www.exist.ru successfully opened
+22	[2019-04-24] [14:58:55.869]	Source files/source/articles.xlsx loaded, length: 684
+23	[2019-04-24] [14:58:55.869]	Start main sequence.
+24	[2019-04-24] [14:58:55.870]	Scraping https://www.exist.ru from article #1 326012
+25	[2019-04-24] [14:58:55.870]	ReferenceError: start is not defined
+26	[2019-04-24] [14:58:58.238]	Open: https://www.exist.ru
+27	[2019-04-24] [14:59:20.505]	https://www.exist.ru successfully opened
+28	[2019-04-24] [14:59:21.507]	Source files/source/articles.xlsx loaded, length: 684
+29	[2019-04-24] [14:59:21.507]	Start main sequence.
+30	[2019-04-24] [14:59:21.508]	Scraping https://www.exist.ru from article #1 326012
+31	[2019-04-24] [14:59:21.508]	ReferenceError: start is not defined

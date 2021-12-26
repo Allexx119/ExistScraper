@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Парсер Exist.ru</title>
+  <link rel="stylesheet" type="text/css" href="../styles/main.css">
+  <link rel="stylesheet" type="text/css" href="../styles/settings.css">
+</head>
+<body>
+
+
+<!------------------------------ Главная страница ----------------------------------->
+<div class="body__main_page">
+	<haeder class="main_page__header">
+		<h2>Парсер exist.ru</h2>
+		<div id="open_settings">
+	    	<img src="../images/icons/settings_icon.svg" title = "Открыть настройки" height="40px">
+	  	</div>
+	</haeder>
+	<content class="main_page__content">
+	  <div class="main_page__content__left_block">
+	    <div id = "upload_container">
+	      <table class="table_header"></table>
+	      <div class="table_container"></div>
+	      <div class="visual_container">
+	        <img src="../images/drag_n_drop.svg" class="upload__image" height = "220px">
+	        <span class="upload__text">Нажмите "Открыть" или перенесите файл сюда</span>
+	      </div>  
+	    </div>
+	    <div class="left__buttons">
+	        <input id="open_button" type="file" name="file">
+	        <label for="open_button">
+	          <div class="button" id = 'open_button_wrap' title = "Открыть документ для загрузки" >Открыть</div>
+	        </label>
+	      <button id = "restore_button" class = "button" title = "Использовать документ из прошлой загрузки">Восстановить</button>
+	      <div class="file_download_checker">
+	        <img class="file_icon" height = "30px">
+	        <span class = "file_name_string_text">Файл не загружен</span>
+	      </div>
+	      
+	    </div>    
+	  </div>
+	  <div class="main_page__content__right_block">
+	    <div class="right__auth">
+	      <span class="auth-description">Авторизация на сервисе</span>
+	      <div class="right__auth__input_block">
+		      <span class="auth-text">Логин:</span>
+		      <div class="auth__login_saved">
+		        <input id = "auth__login" type="text">
+		        <div class="saved_login">
+		          <div id = "saved_login_elements"></div>
+		        </div>
+		      </div>
+		      <span class = "auth-text">Пароль:</span>
+		      <input id = "auth__password" type="password">
+		      <div class="auth__dialog">
+		        <button class = "auth__button button" id = "save_button" title = "Сохранить логин и пароль">Сохранить</button>
+		        <button class = "auth__button button" id = "enter_button">Войти</button>
+		      </div>
+	      </div>
+	    </div>
+	    
+	    <div class="auth_message"></div>
+	    <div class="error_message"></div>
+	    <div class="manual_search">
+<!-- 	   		<span class="manual_search__description">Ручной поиск</span>
+	      	<div class="manual_search__input_block">
+			    <span class="manual_search__text">Артикул:</span>
+			    <input id = "manual_search__article" type="text">
+
+			    <span class = "manual_search__text">Категория:</span>
+			    <input id = "manual_search__category" type="text">
+			    <div class="manual_search__dialog">
+			        <button class = "manual_search__button button" id = "search_button">Найти</button>
+			    </div>
+	      	</div> -->
+	    </div>
+	    <div class="result_file"><a document href="../files/result/result.xlsx" title="Сохранить результат"><img src="../images/icons/excel_icon.svg" height="40px">Сохранить</a></div>
+	    <div class="right__buttons">
+	      <button class = "button" id = "start_stop_button" title = "Начать выполнение загрузки">Запустить</button>
+	    </div>
+	  </div>
+	</content>
+
+	<footer class="main_page__footer">
+	  <div class="footer_description">
+	    <span>Процесс загрузки:</span>
+	    <span class = "percents">0</span>
+	    <span>%</span>
+	  </div>
+	  
+	  <div class="footer__status">
+	    <div class="footer__status-filler">
+	      
+	    </div>
+	  </div>
+	  <div class="footer__details">
+	    <span class="footer__detail_text">...</span>
+	  </div>
+	</footer>
+
+</div>
+
+
+
+<!-------------------------- Страница настроек ---------------------------------->
+
+
+
+<div class="body__settings_page">
+	<header class="settings_page__header">
+		<h2>Настройки</h2>
+	</header>
+	
+	<content class="settings_page__content">
+		<div class="container user_settings_container">
+			<table class = "user_settings">
+				<tr><th>Параметр</th><th>Значение</th></tr>
+				<tr><td>Обязательная авторизация: </td><td></td></tr>
+				<tr><td>Смотреть категорию:</td><td></td></tr>
+				<tr><td>Задержка между запросами на сайт (мс):</td><td><input id = "timeout" type="number"> мс.</td></tr>
+				<tr><td>Минимальная задержка (мс):</td><td><input id = "min_timeout" type="number">  мс.</td></tr>
+				<tr><td>Максимальная задержка (мс)</td><td><input id = "max_timeout" type="number">  мс.</td></tr>
+			</table>
+		</div>
+		<div class = "proxy_settings_header">Настройки прокси</div>
+		<div class="container proxy_container">
+			<table class = "proxy_settings">
+				<tr class = "adress"><td>IP-адрес:</td><td><input id = "proxy_ip_adress" type="text"></td><td>Порт:</td><td><input id = "proxy_port" type="text"></td></tr>
+				<tr class = "login"><td>Логин:</td><td><input id = "proxy_login" type="text"></td></tr>
+				<tr class = "password"><td>Пароль:</td><td><input id = "proxy_password" type="text"></td></tr>
+			</table>
+		</div>
+		<div class="settings_page__blur">
+			<div class="container password_manager">
+				<div class="password_manager__header">
+					<h2>Пароли</h2>
+				</div>
+				<div class="password_manager__content">
+					<div class="password_table_header">
+						<div>№</div><div>Логин</div><div>Пароль</div>
+					</div>
+	      			<div class="password_table_container"></div>
+					<table id = "passwords_table" class="password_manager__table">
+						
+					</table>
+				</div>
+				<div class="password_manager__footer">
+					<button class="button" id = "password_manager__save" title="Применить изменения и закрыть пароли">ОК</button>
+		      		<button class="button" id = "password_manager__cancel" title="Отменить изменения и закрыть пароли">Отменить</button>
+				</div>
+			</div>
+		</div>
+	</content>
+
+	<footer class="settings_page__footer">
+		<div class="settings_page__footer__left_buttons">
+			<button class="button" id = "open_password_manager" title="Управлять паролями">Пароли</button>
+		</div>
+		<div class="settings_page__footer__right__buttons">
+			<button class="button" id = "apply" title="Применить изменения">Применить</button>
+	      	<button class="button" id = "ok" title="Применить изменения и закрыть настройки">ОК</button>
+	      	<button class="button" id = "cancel" title="Отменить изменения и закрыть настройки">Отменить</button>
+		</div>
+	</footer>
+</div>
+
+
+  
+</body>
+</html> 
+
+<script src="../scripts/global.js"></script>
+<script src="../scripts/gui.js"></script>
+<script src = '../scripts/settings_gui.js'></script>
+<script src="../scripts/scraper.js"></script>

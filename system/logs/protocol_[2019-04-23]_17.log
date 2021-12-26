@@ -1,0 +1,152 @@
+1	[2019-04-23] [09:35:11.046]	Start program
+2	[2019-04-23] [09:35:15.168]	Open: https://exist.ru
+3	[2019-04-23] [09:35:17.974]	https://exist.ru successfully opened
+4	[2019-04-23] [09:35:26.779]	Login successfully.
+5	[2019-04-23] [09:35:38.491]	Source files/source/articles.xlsx loaded, length: 684
+6	[2019-04-23] [09:35:38.491]	Results files/result/result.xlsx loaded, length: 2129
+7	[2019-04-23] [09:35:38.491]	Scraping https://exist.ru from article #52 664287
+8	[2019-04-23] [09:35:38.492]	Start main sequence.
+9	[2019-04-23] [09:35:38.492]	Scraping article: #52 664287 | category: Комплекты сцепления | https://exist.ru/Price/?pcode=664287
+10	[2019-04-23] [09:35:40.668]	https://exist.ru/Price/?pcode=664287 successfully opened
+11	[2019-04-23] [09:35:40.669]	Wait for: 1313
+12	[2019-04-23] [09:35:41.982]		Analyse page
+13	[2019-04-23] [09:35:41.985]		Handle errors
+14	[2019-04-23] [09:35:41.985]		Empty request, article not found
+15	[2019-04-23] [09:35:41.987]	Scraping article: #53 664288 | category: Комплекты сцепления | https://exist.ru/Price/?pcode=664288
+16	[2019-04-23] [09:35:47.356]	https://exist.ru/Price/?pcode=664288 successfully opened
+17	[2019-04-23] [09:35:47.357]	Wait for: 1325
+18	[2019-04-23] [09:35:48.682]		Analyse page
+19	[2019-04-23] [09:35:48.685]		Handle errors
+20	[2019-04-23] [09:35:48.685]	Banner detected
+21	[2019-04-23] [09:35:48.686]	Wait for banner
+22	[2019-04-23] [09:35:54.521]	Banner skiped
+23	[2019-04-23] [09:35:54.521]		Start scraper
+24	[2019-04-23] [09:35:54.521]	Get #priceBody.innerHTML
+25	[2019-04-23] [09:35:54.523]	Scraping article: #54 666141 | category: Комплекты сцепления | https://exist.ru/Price/?pcode=666141
+26	[2019-04-23] [09:35:54.573]	Page scrape 1 analogs
+27	[2019-04-23] [09:35:58.565]	https://exist.ru/Price/?pcode=666141 successfully opened
+28	[2019-04-23] [09:35:58.565]	Wait for: 1136
+29	[2019-04-23] [09:35:59.701]		Analyse page
+30	[2019-04-23] [09:35:59.703]		Handle errors
+31	[2019-04-23] [09:35:59.703]	Banner detected
+32	[2019-04-23] [09:35:59.704]	Wait for banner
+33	[2019-04-23] [09:36:05.299]	Banner skiped
+34	[2019-04-23] [09:36:05.299]		Start scraper
+35	[2019-04-23] [09:36:05.300]	Get #priceBody.innerHTML
+36	[2019-04-23] [09:36:05.301]	Scraping article: #55 666145 | category: Комплекты сцепления | https://exist.ru/Price/?pcode=666145
+37	[2019-04-23] [09:36:06.608]	https://exist.ru/Price/?pcode=666145 successfully opened
+38	[2019-04-23] [09:36:06.608]	Wait for: 1121
+39	[2019-04-23] [09:36:06.608]		Analyse page
+40	[2019-04-23] [09:36:06.612]		Handle errors
+41	[2019-04-23] [09:36:06.812]	Get #priceBody.innerHTML
+42	[2019-04-23] [09:36:07.729]		Analyse page
+43	[2019-04-23] [09:36:07.732]		Handle errors
+44	[2019-04-23] [09:36:07.739]	Catalog links amount: 2
+45	[2019-04-23] [09:36:07.742]	Link: #1 https://exist.ru/Price/?pid=777039C0
+46	[2019-04-23] [09:36:07.744]	Link: #2 https://exist.ru/Price/?pid=90406626
+47	[2019-04-23] [09:36:07.745]	Category not found, download all links
+48	[2019-04-23] [09:36:07.745]	Go to: https://exist.ru/Price/?pid=777039C0
+49	[2019-04-23] [09:36:07.962]		Analyse page
+50	[2019-04-23] [09:36:12.088]	https://exist.ru/Price/?pid=777039C0 successfully opened
+51	[2019-04-23] [09:36:12.088]		Analyse page
+52	[2019-04-23] [09:36:12.094]		Handle errors
+53	[2019-04-23] [09:36:12.094]	Banner detected
+54	[2019-04-23] [09:36:12.095]	Wait for banner
+55	[2019-04-23] [09:36:19.417]	Banner skiped
+56	[2019-04-23] [09:36:19.417]	Wait for: 1242
+57	[2019-04-23] [09:36:20.660]	Scrape: https://exist.ru/Price/?pid=777039C0
+58	[2019-04-23] [09:36:20.660]		Start scraper
+59	[2019-04-23] [09:36:20.660]	Get #priceBody.innerHTML
+60	[2019-04-23] [09:36:20.681]	Page scrape 1 analogs
+61	[2019-04-23] [09:36:20.681]	Go to: https://exist.ru/Price/?pid=90406626
+62	[2019-04-23] [09:36:26.037]	https://exist.ru/Price/?pid=90406626 successfully opened
+63	[2019-04-23] [09:36:26.037]		Analyse page
+64	[2019-04-23] [09:36:26.040]		Handle errors
+65	[2019-04-23] [09:36:26.040]	Banner detected
+66	[2019-04-23] [09:36:26.041]	Wait for banner
+67	[2019-04-23] [09:36:33.306]	Banner skiped
+68	[2019-04-23] [09:36:33.306]	Wait for: 1430
+69	[2019-04-23] [09:36:34.736]	Scrape: https://exist.ru/Price/?pid=90406626
+70	[2019-04-23] [09:36:34.736]		Start scraper
+71	[2019-04-23] [09:36:34.737]	Get #priceBody.innerHTML
+72	[2019-04-23] [09:36:34.758]	Page scrape 1 analogs
+73	[2019-04-23] [09:36:34.759]	Scraping article: #56 679078 | category: Выжимные подшипники | https://exist.ru/Price/?pcode=679078
+74	[2019-04-23] [09:36:35.925]	https://exist.ru/Price/?pcode=679078 successfully opened
+75	[2019-04-23] [09:36:35.925]	Wait for: 1449
+76	[2019-04-23] [09:36:37.374]		Analyse page
+77	[2019-04-23] [09:36:37.377]		Handle errors
+78	[2019-04-23] [09:36:37.381]	Catalog links amount: 3
+79	[2019-04-23] [09:36:37.382]	Link: #1 https://exist.ru/Price/?pid=0E90C2FB
+80	[2019-04-23] [09:36:37.384]	Link: #2 https://exist.ru/Price/?pid=05D0B72A
+81	[2019-04-23] [09:36:37.387]	Link: #3 https://exist.ru/Price/?pid=E5A0B3F5
+82	[2019-04-23] [09:36:37.388]	Category not found, download all links
+83	[2019-04-23] [09:36:37.388]	Go to: https://exist.ru/Price/?pid=0E90C2FB
+84	[2019-04-23] [09:36:42.209]	https://exist.ru/Price/?pid=0E90C2FB successfully opened
+85	[2019-04-23] [09:36:42.209]		Analyse page
+86	[2019-04-23] [09:36:42.213]		Handle errors
+87	[2019-04-23] [09:36:42.213]	Banner detected
+88	[2019-04-23] [09:36:42.214]	Wait for banner
+89	[2019-04-23] [09:36:49.813]	Banner skiped
+90	[2019-04-23] [09:36:49.813]	Wait for: 1329
+91	[2019-04-23] [09:36:51.142]	Scrape: https://exist.ru/Price/?pid=0E90C2FB
+92	[2019-04-23] [09:36:51.142]		Start scraper
+93	[2019-04-23] [09:36:51.142]	Get #priceBody.innerHTML
+94	[2019-04-23] [09:36:51.179]	Page scrape 2 analogs
+95	[2019-04-23] [09:36:51.179]	Go to: https://exist.ru/Price/?pid=05D0B72A
+96	[2019-04-23] [09:36:55.573]	https://exist.ru/Price/?pid=05D0B72A successfully opened
+97	[2019-04-23] [09:36:55.573]		Analyse page
+98	[2019-04-23] [09:36:55.577]		Handle errors
+99	[2019-04-23] [09:36:55.578]	Banner detected
+100	[2019-04-23] [09:36:55.580]	Wait for banner
+101	[2019-04-23] [09:37:02.966]	Banner skiped
+102	[2019-04-23] [09:37:02.966]	Wait for: 1150
+103	[2019-04-23] [09:37:04.116]	Scrape: https://exist.ru/Price/?pid=05D0B72A
+104	[2019-04-23] [09:37:04.116]		Start scraper
+105	[2019-04-23] [09:37:04.117]	Get #priceBody.innerHTML
+106	[2019-04-23] [09:37:04.148]	Page scrape 1 analogs
+107	[2019-04-23] [09:37:04.148]	Go to: https://exist.ru/Price/?pid=E5A0B3F5
+108	[2019-04-23] [09:37:09.252]	https://exist.ru/Price/?pid=E5A0B3F5 successfully opened
+109	[2019-04-23] [09:37:09.253]		Analyse page
+110	[2019-04-23] [09:37:09.256]		Handle errors
+111	[2019-04-23] [09:37:09.256]	Banner detected
+112	[2019-04-23] [09:37:09.257]	Wait for banner
+113	[2019-04-23] [09:37:15.917]	Banner skiped
+114	[2019-04-23] [09:37:15.917]	Wait for: 1094
+115	[2019-04-23] [09:37:17.011]	Scrape: https://exist.ru/Price/?pid=E5A0B3F5
+116	[2019-04-23] [09:37:17.011]		Start scraper
+117	[2019-04-23] [09:37:17.012]	Get #priceBody.innerHTML
+118	[2019-04-23] [09:37:17.043]	Page scrape 1 analogs
+119	[2019-04-23] [09:37:17.045]	Scraping article: #57 834125 | category: Фильтр | https://exist.ru/Price/?pcode=834125
+120	[2019-04-23] [09:37:24.503]	https://exist.ru/Price/?pcode=834125 successfully opened
+121	[2019-04-23] [09:37:24.503]	Wait for: 1056
+122	[2019-04-23] [09:37:25.559]		Analyse page
+123	[2019-04-23] [09:37:25.560]		Handle errors
+124	[2019-04-23] [09:37:25.561]	Banner detected
+125	[2019-04-23] [09:37:25.561]	Wait for banner
+126	[2019-04-23] [09:37:31.538]	Banner skiped
+127	[2019-04-23] [09:37:31.538]		Start scraper
+128	[2019-04-23] [09:37:31.539]	Get #priceBody.innerHTML
+129	[2019-04-23] [09:37:31.540]	Scraping article: #58 834126 | category: Фильтры воздушные двигателя | https://exist.ru/Price/?pcode=834126
+130	[2019-04-23] [09:37:33.035]	https://exist.ru/Price/?pcode=834126 successfully opened
+131	[2019-04-23] [09:37:33.036]	Wait for: 1440
+132	[2019-04-23] [09:37:33.036]		Analyse page
+133	[2019-04-23] [09:37:33.039]		Handle errors
+134	[2019-04-23] [09:37:33.240]	Get #priceBody.innerHTML
+135	[2019-04-23] [09:37:34.202]		Analyse page
+136	[2019-04-23] [09:37:34.211]		Handle errors
+137	[2019-04-23] [09:37:34.412]	Get #priceBody.innerHTML
+138	[2019-04-23] [09:37:34.476]		Analyse page
+139	[2019-04-23] [09:37:34.829]	Error: Execution context was destroyed, most likely because of a navigation.
+140	[2019-04-23] [09:37:34.829]	Write XLSX to: files/source/articles.xlsx
+141	[2019-04-23] [09:37:34.894]	Write XLSX to: files/result/result.xlsx
+142	[2019-04-23] [09:37:35.137]	Missing articles: 664287
+143	[2019-04-23] [09:37:35.137]	Script execution finished.
+144	[2019-04-23] [09:37:35.138]	***
+145	[2019-04-23] [09:37:35.520]		Analyse page
+146	[2019-04-23] [09:37:35.528]		Handle errors
+147	[2019-04-23] [09:37:35.730]	Get #priceBody.innerHTML
+148	[2019-04-23] [09:37:36.725]		Analyse page
+149	[2019-04-23] [09:37:36.728]		Handle errors
+150	[2019-04-23] [09:37:36.929]	Get #priceBody.innerHTML
+151	[2019-04-23] [09:37:37.959]		Analyse page
+152	[2019-04-23] [09:37:37.962]		Handle errors

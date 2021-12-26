@@ -1,0 +1,16 @@
+1	[2019-04-25] [13:52:04.479]	Start program
+2	[2019-04-25] [13:52:07.082]	Open: https://www.exist.ru
+3	[2019-04-25] [13:52:12.624]	https://www.exist.ru successfully opened
+4	[2019-04-25] [13:52:23.876]	Source files/source/articles.xlsx loaded, length: 1
+5	[2019-04-25] [13:52:23.877]	Start main sequence.
+6	[2019-04-25] [13:52:23.877]	Scraping https://www.exist.ru from article #1 4014766073419
+7	[2019-04-25] [13:52:23.878]	Scraping article: #1 4014766073419 | category: Масло | https://www.exist.ru/Price/?pcode=4014766073419
+8	[2019-04-25] [13:52:26.793]	https://www.exist.ru/Price/?pcode=4014766073419 successfully opened
+9	[2019-04-25] [13:52:26.794]	Wait for: 1206
+10	[2019-04-25] [13:52:28.000]		Analyse page
+11	[2019-04-25] [13:52:28.005]		Handle errors
+12	[2019-04-25] [13:52:28.006]		Start scraper
+13	[2019-04-25] [13:52:28.006]	Get #priceBody.innerHTML
+14	[2019-04-25] [13:52:28.009]	***
+15	[2019-04-25] [13:52:28.011]	Script execution finished.
+16	[2019-04-25] [13:52:28.105]	Page scrape 1 analogs

@@ -1,0 +1,40 @@
+1	[2019-04-25] [12:20:00.856]	Start program
+2	[2019-04-25] [12:20:02.766]	Open: https://www.exist.ru
+3	[2019-04-25] [12:20:14.561]	https://www.exist.ru successfully opened
+4	[2019-04-25] [12:20:33.894]	Source files/source/articles.xlsx loaded, length: 684
+5	[2019-04-25] [12:20:33.895]	Start main sequence.
+6	[2019-04-25] [12:20:33.896]	Scraping https://www.exist.ru from article #31 436825
+7	[2019-04-25] [12:20:33.897]	Scraping article: #31 436825 | category: Амортизаторы | https://www.exist.ru/Price/?pcode=436825
+8	[2019-04-25] [12:20:35.940]	https://www.exist.ru/Price/?pcode=436825 successfully opened
+9	[2019-04-25] [12:20:35.941]	Wait for: 2832
+10	[2019-04-25] [12:20:38.773]		Analyse page
+11	[2019-04-25] [12:20:38.778]		Handle errors
+12	[2019-04-25] [12:20:38.806]	Catalog links amount: 2
+13	[2019-04-25] [12:20:38.809]	Link: #1 https://www.exist.ru/Price/?pid=E78054B5
+14	[2019-04-25] [12:20:38.812]	Link: #2 https://www.exist.ru/Price/?pid=0780E4D2
+15	[2019-04-25] [12:20:38.812]	Category not found, download all links
+16	[2019-04-25] [12:20:38.813]	Go to: https://www.exist.ru/Price/?pid=E78054B5
+17	[2019-04-25] [12:20:41.087]	https://www.exist.ru/Price/?pid=E78054B5 successfully opened
+18	[2019-04-25] [12:20:41.087]		Analyse page
+19	[2019-04-25] [12:20:41.090]		Handle errors
+20	[2019-04-25] [12:20:41.090]	Wait for: 2957
+21	[2019-04-25] [12:20:44.047]	Scrape: https://www.exist.ru/Price/?pid=E78054B5
+22	[2019-04-25] [12:20:44.047]		Start scraper
+23	[2019-04-25] [12:20:44.047]	Get #priceBody.innerHTML
+24	[2019-04-25] [12:20:44.081]	TypeError: htmlElement.querySelectorAll is not a function
+25	[2019-04-25] [12:20:46.678]	Open: https://www.exist.ru
+26	[2019-04-25] [12:20:49.134]	https://www.exist.ru successfully opened
+27	[2019-04-25] [12:20:50.134]	Source files/source/articles.xlsx loaded, length: 684
+28	[2019-04-25] [12:20:50.134]	Start main sequence.
+29	[2019-04-25] [12:20:50.135]	Scraping https://www.exist.ru from article #31 436825
+30	[2019-04-25] [12:20:50.136]	Scraping article: #31 436825 | category: Амортизаторы | https://www.exist.ru/Price/?pcode=436825
+31	[2019-04-25] [12:20:51.366]	https://www.exist.ru/Price/?pcode=436825 successfully opened
+32	[2019-04-25] [12:20:51.366]	Wait for: 2466
+33	[2019-04-25] [12:20:53.832]		Analyse page
+34	[2019-04-25] [12:20:53.835]		Handle errors
+35	[2019-04-25] [12:20:53.840]	Catalog links amount: 2
+36	[2019-04-25] [12:20:53.840]	Link: #1 https://www.exist.ru/Price/?pid=E78054B5
+37	[2019-04-25] [12:20:53.841]	Link: #2 https://www.exist.ru/Price/?pid=0780E4D2
+38	[2019-04-25] [12:20:53.841]	Category not found, download all links
+39	[2019-04-25] [12:20:53.842]	Script execution finished.
+40	[2019-04-25] [12:20:53.842]	***

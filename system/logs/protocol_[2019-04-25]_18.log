@@ -1,0 +1,42 @@
+1	[2019-04-25] [11:23:53.341]	Start program
+2	[2019-04-25] [11:24:20.338]	Open: https://www.exist.ru
+3	[2019-04-25] [11:24:25.417]	https://www.exist.ru successfully opened
+4	[2019-04-25] [11:24:31.214]	Source files/source/articles.xlsx loaded, length: 684
+5	[2019-04-25] [11:24:31.214]	Start main sequence.
+6	[2019-04-25] [11:24:31.215]	Scraping https://www.exist.ru from article #1 326012
+7	[2019-04-25] [11:24:31.216]	Scraping https://www.exist.ru from article #2 328006
+8	[2019-04-25] [11:24:31.216]	Scraping https://www.exist.ru from article #3 328008
+9	[2019-04-25] [11:24:31.217]	Scraping https://www.exist.ru from article #4 328021
+10	[2019-04-25] [11:24:31.218]	Scraping https://www.exist.ru from article #5 328035
+11	[2019-04-25] [11:24:31.219]	Scraping https://www.exist.ru from article #6 328036
+12	[2019-04-25] [11:24:31.220]	Scraping https://www.exist.ru from article #7 328037
+13	[2019-04-25] [11:24:31.220]	Scraping https://www.exist.ru from article #8 344573
+14	[2019-04-25] [11:24:31.221]	Scraping https://www.exist.ru from article #9 344685
+15	[2019-04-25] [11:24:31.221]	Scraping https://www.exist.ru from article #10 344686
+16	[2019-04-25] [11:24:31.222]	Scraping https://www.exist.ru from article #11 344884
+17	[2019-04-25] [11:24:31.222]	Scraping https://www.exist.ru from article #12 344885
+18	[2019-04-25] [11:24:31.223]	Scraping https://www.exist.ru from article #13 344913
+19	[2019-04-25] [11:24:31.223]	Scraping https://www.exist.ru from article #14 344914
+20	[2019-04-25] [11:24:31.224]	Scraping https://www.exist.ru from article #15 345020
+21	[2019-04-25] [11:24:31.224]	Scraping https://www.exist.ru from article #16 345134
+22	[2019-04-25] [11:24:31.224]	Scraping https://www.exist.ru from article #17 345135
+23	[2019-04-25] [11:24:31.225]	Scraping https://www.exist.ru from article #18 345136
+24	[2019-04-25] [11:24:31.225]	Scraping https://www.exist.ru from article #19 345137
+25	[2019-04-25] [11:24:31.227]	Scraping article: #19 345137 | category: Амортизаторы | https://www.exist.ru/Price/?pcode=345137
+26	[2019-04-25] [11:24:56.906]	https://www.exist.ru/Price/?pcode=345137 successfully opened
+27	[2019-04-25] [11:24:56.907]	Wait for: 2209
+28	[2019-04-25] [11:24:59.117]		Analyse page
+29	[2019-04-25] [11:24:59.122]		Handle errors
+30	[2019-04-25] [11:24:59.159]	Catalog links amount: 5
+31	[2019-04-25] [11:24:59.161]	Link: #1 https://www.exist.ru/Price/?pid=1130E1FA
+32	[2019-04-25] [11:24:59.162]	Link: #2 https://www.exist.ru/Price/?pid=8E1008E0
+33	[2019-04-25] [11:24:59.163]	Link: #3 https://www.exist.ru/Price/?pid=DD20E0F0
+34	[2019-04-25] [11:24:59.164]	Link: #4 https://www.exist.ru/Price/?pid=AC805445
+35	[2019-04-25] [11:24:59.165]	Link: #5 https://www.exist.ru/Price/?pid=CB10A095
+36	[2019-04-25] [11:24:59.166]	Category not found, download all links
+37	[2019-04-25] [11:24:59.166]	Go to: https://www.exist.ru/Price/?pid=1130E1FA
+38	[2019-04-25] [11:25:14.884]	https://www.exist.ru/Price/?pid=1130E1FA successfully opened
+39	[2019-04-25] [11:25:14.884]		Analyse page
+40	[2019-04-25] [11:25:14.888]		Handle errors
+41	[2019-04-25] [11:25:14.888]	Captcha cached
+42	[2019-04-25] [11:25:14.901]	[object Object]

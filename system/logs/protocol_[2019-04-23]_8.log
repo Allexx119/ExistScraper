@@ -1,0 +1,577 @@
+1	[2019-04-23] [07:52:29.714]	Start program
+2	[2019-04-23] [07:52:33.115]	Open: https://exist.ru
+3	[2019-04-23] [07:52:35.850]	https://exist.ru successfully opened
+4	[2019-04-23] [07:52:41.040]	Login successfully.
+5	[2019-04-23] [07:53:06.368]	Source files/source/articles.xlsx loaded, length: 684
+6	[2019-04-23] [07:53:06.436]	Results files/result/result.xlsx loaded, length: 224
+7	[2019-04-23] [07:53:06.436]	Scraping https://exist.ru from article #11 344884
+8	[2019-04-23] [07:53:06.436]	Start main sequence.
+9	[2019-04-23] [07:53:06.436]	Scraping article: #11 344884 | category: Амортизаторы | https://exist.ru/Price/?pcode=344884
+10	[2019-04-23] [07:53:08.446]	https://exist.ru/Price/?pcode=344884 successfully opened
+11	[2019-04-23] [07:53:08.446]	Wait for: 1440
+12	[2019-04-23] [07:53:09.887]		Analyse page
+13	[2019-04-23] [07:53:09.890]		Handle errors
+14	[2019-04-23] [07:53:09.918]	Catalog links amount: 3
+15	[2019-04-23] [07:53:09.920]	Link: #1 https://exist.ru/Price/?pid=31E0C9CC
+16	[2019-04-23] [07:53:09.921]	Link: #2 https://exist.ru/Price/?pid=09B0D9D2
+17	[2019-04-23] [07:53:09.922]	Link: #3 https://exist.ru/Price/?pid=59503C89
+18	[2019-04-23] [07:53:09.922]	Category not found, download all links
+19	[2019-04-23] [07:53:09.922]	Go to: https://exist.ru/Price/?pid=31E0C9CC
+20	[2019-04-23] [07:53:11.361]	https://exist.ru/Price/?pid=31E0C9CC successfully opened
+21	[2019-04-23] [07:53:11.361]		Analyse page
+22	[2019-04-23] [07:53:11.363]		Handle errors
+23	[2019-04-23] [07:53:11.363]	Wait for: 1228
+24	[2019-04-23] [07:53:12.591]	Scrape: https://exist.ru/Price/?pid=31E0C9CC
+25	[2019-04-23] [07:53:12.591]		Start scraper
+26	[2019-04-23] [07:53:12.601]	Get #priceBody.innerHTML
+27	[2019-04-23] [07:53:12.630]	Page scrape 2 analogs
+28	[2019-04-23] [07:53:12.630]	Go to: https://exist.ru/Price/?pid=09B0D9D2
+29	[2019-04-23] [07:53:13.988]	https://exist.ru/Price/?pid=09B0D9D2 successfully opened
+30	[2019-04-23] [07:53:13.988]		Analyse page
+31	[2019-04-23] [07:53:13.992]		Handle errors
+32	[2019-04-23] [07:53:13.992]	Wait for: 1401
+33	[2019-04-23] [07:53:15.393]	Scrape: https://exist.ru/Price/?pid=09B0D9D2
+34	[2019-04-23] [07:53:15.393]		Start scraper
+35	[2019-04-23] [07:53:15.402]	Get #priceBody.innerHTML
+36	[2019-04-23] [07:53:15.438]	Page scrape 4 analogs
+37	[2019-04-23] [07:53:15.438]	Go to: https://exist.ru/Price/?pid=59503C89
+38	[2019-04-23] [07:53:17.864]	https://exist.ru/Price/?pid=59503C89 successfully opened
+39	[2019-04-23] [07:53:17.864]		Analyse page
+40	[2019-04-23] [07:53:17.867]		Handle errors
+41	[2019-04-23] [07:53:17.867]	Wait for: 1068
+42	[2019-04-23] [07:53:18.935]	Scrape: https://exist.ru/Price/?pid=59503C89
+43	[2019-04-23] [07:53:18.935]		Start scraper
+44	[2019-04-23] [07:53:18.944]	Get #priceBody.innerHTML
+45	[2019-04-23] [07:53:19.212]	Page scrape 43 analogs
+46	[2019-04-23] [07:53:19.213]	Scraping article: #12 344885 | category: Амортизаторы | https://exist.ru/Price/?pcode=344885
+47	[2019-04-23] [07:53:20.295]	https://exist.ru/Price/?pcode=344885 successfully opened
+48	[2019-04-23] [07:53:20.295]	Wait for: 1302
+49	[2019-04-23] [07:53:21.597]		Analyse page
+50	[2019-04-23] [07:53:21.599]		Handle errors
+51	[2019-04-23] [07:53:21.605]	Catalog links amount: 3
+52	[2019-04-23] [07:53:21.606]	Link: #1 https://exist.ru/Price/?pid=3210C9CC
+53	[2019-04-23] [07:53:21.607]	Link: #2 https://exist.ru/Price/?pid=09E0D9D2
+54	[2019-04-23] [07:53:21.607]	Link: #3 https://exist.ru/Price/?pid=59803C89
+55	[2019-04-23] [07:53:21.608]	Category not found, download all links
+56	[2019-04-23] [07:53:21.608]	Go to: https://exist.ru/Price/?pid=3210C9CC
+57	[2019-04-23] [07:53:22.922]	https://exist.ru/Price/?pid=3210C9CC successfully opened
+58	[2019-04-23] [07:53:22.922]		Analyse page
+59	[2019-04-23] [07:53:22.925]		Handle errors
+60	[2019-04-23] [07:53:22.925]	Wait for: 1471
+61	[2019-04-23] [07:53:24.396]	Scrape: https://exist.ru/Price/?pid=3210C9CC
+62	[2019-04-23] [07:53:24.396]		Start scraper
+63	[2019-04-23] [07:53:24.402]	Get #priceBody.innerHTML
+64	[2019-04-23] [07:53:24.416]	Page scrape 2 analogs
+65	[2019-04-23] [07:53:24.416]	Go to: https://exist.ru/Price/?pid=09E0D9D2
+66	[2019-04-23] [07:53:25.746]	https://exist.ru/Price/?pid=09E0D9D2 successfully opened
+67	[2019-04-23] [07:53:25.746]		Analyse page
+68	[2019-04-23] [07:53:25.747]		Handle errors
+69	[2019-04-23] [07:53:25.747]	Wait for: 1477
+70	[2019-04-23] [07:53:27.225]	Scrape: https://exist.ru/Price/?pid=09E0D9D2
+71	[2019-04-23] [07:53:27.225]		Start scraper
+72	[2019-04-23] [07:53:27.231]	Get #priceBody.innerHTML
+73	[2019-04-23] [07:53:27.253]	Page scrape 4 analogs
+74	[2019-04-23] [07:53:27.253]	Go to: https://exist.ru/Price/?pid=59803C89
+75	[2019-04-23] [07:53:29.371]	https://exist.ru/Price/?pid=59803C89 successfully opened
+76	[2019-04-23] [07:53:29.371]		Analyse page
+77	[2019-04-23] [07:53:29.394]		Handle errors
+78	[2019-04-23] [07:53:29.394]	Wait for: 1229
+79	[2019-04-23] [07:53:30.623]	Scrape: https://exist.ru/Price/?pid=59803C89
+80	[2019-04-23] [07:53:30.623]		Start scraper
+81	[2019-04-23] [07:53:30.632]	Get #priceBody.innerHTML
+82	[2019-04-23] [07:53:30.822]	Page scrape 37 analogs
+83	[2019-04-23] [07:53:30.823]	Scraping article: #13 344913 | category: Амортизаторы | https://exist.ru/Price/?pcode=344913
+84	[2019-04-23] [07:53:32.096]	https://exist.ru/Price/?pcode=344913 successfully opened
+85	[2019-04-23] [07:53:32.096]	Wait for: 1004
+86	[2019-04-23] [07:53:33.101]		Analyse page
+87	[2019-04-23] [07:53:33.104]		Handle errors
+88	[2019-04-23] [07:53:33.109]	Catalog links amount: 3
+89	[2019-04-23] [07:53:33.109]	Link: #1 https://exist.ru/Price/?pid=3750C9CC
+90	[2019-04-23] [07:53:33.110]	Link: #2 https://exist.ru/Price/?pid=0F20D9D2
+91	[2019-04-23] [07:53:33.111]	Link: #3 https://exist.ru/Price/?pid=36103C7D
+92	[2019-04-23] [07:53:33.112]	Category not found, download all links
+93	[2019-04-23] [07:53:33.112]	Go to: https://exist.ru/Price/?pid=3750C9CC
+94	[2019-04-23] [07:53:34.314]	https://exist.ru/Price/?pid=3750C9CC successfully opened
+95	[2019-04-23] [07:53:34.314]		Analyse page
+96	[2019-04-23] [07:53:34.318]		Handle errors
+97	[2019-04-23] [07:53:34.318]	Wait for: 1240
+98	[2019-04-23] [07:53:35.558]	Scrape: https://exist.ru/Price/?pid=3750C9CC
+99	[2019-04-23] [07:53:35.558]		Start scraper
+100	[2019-04-23] [07:53:35.567]	Get #priceBody.innerHTML
+101	[2019-04-23] [07:53:35.574]	Page scrape 2 analogs
+102	[2019-04-23] [07:53:35.574]	Go to: https://exist.ru/Price/?pid=0F20D9D2
+103	[2019-04-23] [07:53:37.516]	https://exist.ru/Price/?pid=0F20D9D2 successfully opened
+104	[2019-04-23] [07:53:37.516]		Analyse page
+105	[2019-04-23] [07:53:37.521]		Handle errors
+106	[2019-04-23] [07:53:37.521]	Wait for: 1172
+107	[2019-04-23] [07:53:38.694]	Scrape: https://exist.ru/Price/?pid=0F20D9D2
+108	[2019-04-23] [07:53:38.694]		Start scraper
+109	[2019-04-23] [07:53:38.702]	Get #priceBody.innerHTML
+110	[2019-04-23] [07:53:38.715]	Page scrape 2 analogs
+111	[2019-04-23] [07:53:38.715]	Go to: https://exist.ru/Price/?pid=36103C7D
+112	[2019-04-23] [07:53:39.972]	https://exist.ru/Price/?pid=36103C7D successfully opened
+113	[2019-04-23] [07:53:39.972]		Analyse page
+114	[2019-04-23] [07:53:39.979]		Handle errors
+115	[2019-04-23] [07:53:39.979]	Wait for: 1340
+116	[2019-04-23] [07:53:41.319]	Scrape: https://exist.ru/Price/?pid=36103C7D
+117	[2019-04-23] [07:53:41.319]		Start scraper
+118	[2019-04-23] [07:53:41.327]	Get #priceBody.innerHTML
+119	[2019-04-23] [07:53:41.334]	Page scrape 1 analogs
+120	[2019-04-23] [07:53:41.335]	Scraping article: #14 344914 | category: Амортизаторы | https://exist.ru/Price/?pcode=344914
+121	[2019-04-23] [07:53:42.455]	https://exist.ru/Price/?pcode=344914 successfully opened
+122	[2019-04-23] [07:53:42.455]	Wait for: 1376
+123	[2019-04-23] [07:53:43.832]		Analyse page
+124	[2019-04-23] [07:53:43.834]		Handle errors
+125	[2019-04-23] [07:53:43.839]	Catalog links amount: 3
+126	[2019-04-23] [07:53:43.840]	Link: #1 https://exist.ru/Price/?pid=3780C9CC
+127	[2019-04-23] [07:53:43.840]	Link: #2 https://exist.ru/Price/?pid=0F50D9D2
+128	[2019-04-23] [07:53:43.841]	Link: #3 https://exist.ru/Price/?pid=5B903C89
+129	[2019-04-23] [07:53:43.842]	Category not found, download all links
+130	[2019-04-23] [07:53:43.842]	Go to: https://exist.ru/Price/?pid=3780C9CC
+131	[2019-04-23] [07:53:45.456]	https://exist.ru/Price/?pid=3780C9CC successfully opened
+132	[2019-04-23] [07:53:45.456]		Analyse page
+133	[2019-04-23] [07:53:45.459]		Handle errors
+134	[2019-04-23] [07:53:45.460]	Wait for: 1407
+135	[2019-04-23] [07:53:46.867]	Scrape: https://exist.ru/Price/?pid=3780C9CC
+136	[2019-04-23] [07:53:46.867]		Start scraper
+137	[2019-04-23] [07:53:46.875]	Get #priceBody.innerHTML
+138	[2019-04-23] [07:53:46.897]	Page scrape 4 analogs
+139	[2019-04-23] [07:53:46.897]	Go to: https://exist.ru/Price/?pid=0F50D9D2
+140	[2019-04-23] [07:53:48.315]	https://exist.ru/Price/?pid=0F50D9D2 successfully opened
+141	[2019-04-23] [07:53:48.315]		Analyse page
+142	[2019-04-23] [07:53:48.318]		Handle errors
+143	[2019-04-23] [07:53:48.318]	Wait for: 1154
+144	[2019-04-23] [07:53:49.472]	Scrape: https://exist.ru/Price/?pid=0F50D9D2
+145	[2019-04-23] [07:53:49.472]		Start scraper
+146	[2019-04-23] [07:53:49.480]	Get #priceBody.innerHTML
+147	[2019-04-23] [07:53:49.501]	Page scrape 4 analogs
+148	[2019-04-23] [07:53:49.501]	Go to: https://exist.ru/Price/?pid=5B903C89
+149	[2019-04-23] [07:53:51.081]	https://exist.ru/Price/?pid=5B903C89 successfully opened
+150	[2019-04-23] [07:53:51.081]		Analyse page
+151	[2019-04-23] [07:53:51.083]		Handle errors
+152	[2019-04-23] [07:53:51.083]	Wait for: 1047
+153	[2019-04-23] [07:53:52.130]	Scrape: https://exist.ru/Price/?pid=5B903C89
+154	[2019-04-23] [07:53:52.130]		Start scraper
+155	[2019-04-23] [07:53:52.139]	Get #priceBody.innerHTML
+156	[2019-04-23] [07:53:52.220]	Page scrape 14 analogs
+157	[2019-04-23] [07:53:52.221]	Scraping article: #15 345020 | category: Амортизаторы | https://exist.ru/Price/?pcode=345020
+158	[2019-04-23] [07:53:53.329]	https://exist.ru/Price/?pcode=345020 successfully opened
+159	[2019-04-23] [07:53:53.329]	Wait for: 1238
+160	[2019-04-23] [07:53:54.567]		Analyse page
+161	[2019-04-23] [07:53:54.570]		Handle errors
+162	[2019-04-23] [07:53:54.579]	Catalog links amount: 7
+163	[2019-04-23] [07:53:54.580]	Link: #1 https://exist.ru/Price/?pid=3AE0D2AE
+164	[2019-04-23] [07:53:54.581]	Link: #2 https://exist.ru/Price/?pid=22809654
+165	[2019-04-23] [07:53:54.582]	Link: #3 https://exist.ru/Price/?pid=73104BD3
+166	[2019-04-23] [07:53:54.583]	Link: #4 https://exist.ru/Price/?pid=9B3008E0
+167	[2019-04-23] [07:53:54.584]	Link: #5 https://exist.ru/Price/?pid=22D0D9D2
+168	[2019-04-23] [07:53:54.585]	Link: #6 https://exist.ru/Price/?pid=5A900A0B
+169	[2019-04-23] [07:53:54.586]	Category found, go to: https://exist.ru/Price/?pid=5A900A0B
+170	[2019-04-23] [07:53:56.154]	https://exist.ru/Price/?pid=5A900A0B successfully opened
+171	[2019-04-23] [07:53:56.154]		Analyse page
+172	[2019-04-23] [07:53:56.161]		Handle errors
+173	[2019-04-23] [07:53:56.161]	Wait for: 1314
+174	[2019-04-23] [07:53:57.475]	Scrape https://exist.ru/Price/?pid=5A900A0B
+175	[2019-04-23] [07:53:57.475]		Start scraper
+176	[2019-04-23] [07:53:57.490]	Get #priceBody.innerHTML
+177	[2019-04-23] [07:53:57.635]	Page scrape 27 analogs
+178	[2019-04-23] [07:53:57.636]	Scraping article: #16 345134 | category: Амортизаторы | https://exist.ru/Price/?pcode=345134
+179	[2019-04-23] [07:53:58.756]	https://exist.ru/Price/?pcode=345134 successfully opened
+180	[2019-04-23] [07:53:58.757]	Wait for: 1099
+181	[2019-04-23] [07:53:59.856]		Analyse page
+182	[2019-04-23] [07:53:59.859]		Handle errors
+183	[2019-04-23] [07:53:59.865]	Catalog links amount: 4
+184	[2019-04-23] [07:53:59.865]	Link: #1 https://exist.ru/Price/?pid=1220E1FA
+185	[2019-04-23] [07:53:59.866]	Link: #2 https://exist.ru/Price/?pid=7F90DA1B
+186	[2019-04-23] [07:53:59.867]	Link: #3 https://exist.ru/Price/?pid=AAA05445
+187	[2019-04-23] [07:53:59.868]	Link: #4 https://exist.ru/Price/?pid=CA80A095
+188	[2019-04-23] [07:53:59.868]	Category not found, download all links
+189	[2019-04-23] [07:53:59.868]	Go to: https://exist.ru/Price/?pid=1220E1FA
+190	[2019-04-23] [07:54:01.082]	https://exist.ru/Price/?pid=1220E1FA successfully opened
+191	[2019-04-23] [07:54:01.082]		Analyse page
+192	[2019-04-23] [07:54:01.087]		Handle errors
+193	[2019-04-23] [07:54:01.087]	Wait for: 1095
+194	[2019-04-23] [07:54:02.182]	Scrape: https://exist.ru/Price/?pid=1220E1FA
+195	[2019-04-23] [07:54:02.183]		Start scraper
+196	[2019-04-23] [07:54:02.191]	Get #priceBody.innerHTML
+197	[2019-04-23] [07:54:02.210]	Page scrape 2 analogs
+198	[2019-04-23] [07:54:02.210]	Go to: https://exist.ru/Price/?pid=7F90DA1B
+199	[2019-04-23] [07:54:03.583]	https://exist.ru/Price/?pid=7F90DA1B successfully opened
+200	[2019-04-23] [07:54:03.583]		Analyse page
+201	[2019-04-23] [07:54:03.589]		Handle errors
+202	[2019-04-23] [07:54:03.589]	Wait for: 1498
+203	[2019-04-23] [07:54:05.088]	Scrape: https://exist.ru/Price/?pid=7F90DA1B
+204	[2019-04-23] [07:54:05.088]		Start scraper
+205	[2019-04-23] [07:54:05.096]	Get #priceBody.innerHTML
+206	[2019-04-23] [07:54:05.140]	Page scrape 6 analogs
+207	[2019-04-23] [07:54:05.141]	Go to: https://exist.ru/Price/?pid=AAA05445
+208	[2019-04-23] [07:54:07.115]	https://exist.ru/Price/?pid=AAA05445 successfully opened
+209	[2019-04-23] [07:54:07.115]		Analyse page
+210	[2019-04-23] [07:54:07.121]		Handle errors
+211	[2019-04-23] [07:54:07.121]	Wait for: 1257
+212	[2019-04-23] [07:54:08.378]	Scrape: https://exist.ru/Price/?pid=AAA05445
+213	[2019-04-23] [07:54:08.378]		Start scraper
+214	[2019-04-23] [07:54:08.386]	Get #priceBody.innerHTML
+215	[2019-04-23] [07:54:08.395]	Page scrape 1 analogs
+216	[2019-04-23] [07:54:08.395]	Go to: https://exist.ru/Price/?pid=CA80A095
+217	[2019-04-23] [07:54:10.248]	https://exist.ru/Price/?pid=CA80A095 successfully opened
+218	[2019-04-23] [07:54:10.248]		Analyse page
+219	[2019-04-23] [07:54:10.250]		Handle errors
+220	[2019-04-23] [07:54:10.250]	Wait for: 1316
+221	[2019-04-23] [07:54:11.567]	Scrape: https://exist.ru/Price/?pid=CA80A095
+222	[2019-04-23] [07:54:11.567]		Start scraper
+223	[2019-04-23] [07:54:11.575]	Get #priceBody.innerHTML
+224	[2019-04-23] [07:54:11.732]	Page scrape 29 analogs
+225	[2019-04-23] [07:54:11.732]	Scraping article: #17 345135 | category: Амортизаторы | https://exist.ru/Price/?pcode=345135
+226	[2019-04-23] [07:54:12.871]	https://exist.ru/Price/?pcode=345135 successfully opened
+227	[2019-04-23] [07:54:12.871]	Wait for: 1058
+228	[2019-04-23] [07:54:13.929]		Analyse page
+229	[2019-04-23] [07:54:13.931]		Handle errors
+230	[2019-04-23] [07:54:13.935]	Catalog links amount: 5
+231	[2019-04-23] [07:54:13.935]	Link: #1 https://exist.ru/Price/?pid=10D0E1FA
+232	[2019-04-23] [07:54:13.936]	Link: #2 https://exist.ru/Price/?pid=8DE008E0
+233	[2019-04-23] [07:54:13.937]	Link: #3 https://exist.ru/Price/?pid=7FC0DA1B
+234	[2019-04-23] [07:54:13.938]	Link: #4 https://exist.ru/Price/?pid=AAD05445
+235	[2019-04-23] [07:54:13.938]	Link: #5 https://exist.ru/Price/?pid=CAB0A095
+236	[2019-04-23] [07:54:13.939]	Category not found, download all links
+237	[2019-04-23] [07:54:13.939]	Go to: https://exist.ru/Price/?pid=10D0E1FA
+238	[2019-04-23] [07:54:15.252]	https://exist.ru/Price/?pid=10D0E1FA successfully opened
+239	[2019-04-23] [07:54:15.252]		Analyse page
+240	[2019-04-23] [07:54:15.255]		Handle errors
+241	[2019-04-23] [07:54:15.255]	Wait for: 1010
+242	[2019-04-23] [07:54:16.265]	Scrape: https://exist.ru/Price/?pid=10D0E1FA
+243	[2019-04-23] [07:54:16.265]		Start scraper
+244	[2019-04-23] [07:54:16.271]	Get #priceBody.innerHTML
+245	[2019-04-23] [07:54:16.277]	Page scrape 2 analogs
+246	[2019-04-23] [07:54:16.277]	Go to: https://exist.ru/Price/?pid=8DE008E0
+247	[2019-04-23] [07:54:18.260]	https://exist.ru/Price/?pid=8DE008E0 successfully opened
+248	[2019-04-23] [07:54:18.260]		Analyse page
+249	[2019-04-23] [07:54:18.265]		Handle errors
+250	[2019-04-23] [07:54:18.265]	Wait for: 1479
+251	[2019-04-23] [07:54:19.745]	Scrape: https://exist.ru/Price/?pid=8DE008E0
+252	[2019-04-23] [07:54:19.745]		Start scraper
+253	[2019-04-23] [07:54:19.753]	Get #priceBody.innerHTML
+254	[2019-04-23] [07:54:19.761]	Page scrape 2 analogs
+255	[2019-04-23] [07:54:19.762]	Go to: https://exist.ru/Price/?pid=7FC0DA1B
+256	[2019-04-23] [07:54:21.067]	https://exist.ru/Price/?pid=7FC0DA1B successfully opened
+257	[2019-04-23] [07:54:21.067]		Analyse page
+258	[2019-04-23] [07:54:21.078]		Handle errors
+259	[2019-04-23] [07:54:21.079]	Wait for: 1475
+260	[2019-04-23] [07:54:22.554]	Scrape: https://exist.ru/Price/?pid=7FC0DA1B
+261	[2019-04-23] [07:54:22.554]		Start scraper
+262	[2019-04-23] [07:54:22.563]	Get #priceBody.innerHTML
+263	[2019-04-23] [07:54:22.624]	Page scrape 14 analogs
+264	[2019-04-23] [07:54:22.624]	Go to: https://exist.ru/Price/?pid=AAD05445
+265	[2019-04-23] [07:54:24.062]	https://exist.ru/Price/?pid=AAD05445 successfully opened
+266	[2019-04-23] [07:54:24.063]		Analyse page
+267	[2019-04-23] [07:54:24.065]		Handle errors
+268	[2019-04-23] [07:54:24.065]	Wait for: 1058
+269	[2019-04-23] [07:54:25.123]	Scrape: https://exist.ru/Price/?pid=AAD05445
+270	[2019-04-23] [07:54:25.123]		Start scraper
+271	[2019-04-23] [07:54:25.128]	Get #priceBody.innerHTML
+272	[2019-04-23] [07:54:25.131]	Page scrape 1 analogs
+273	[2019-04-23] [07:54:25.132]	Go to: https://exist.ru/Price/?pid=CAB0A095
+274	[2019-04-23] [07:54:27.497]	https://exist.ru/Price/?pid=CAB0A095 successfully opened
+275	[2019-04-23] [07:54:27.497]		Analyse page
+276	[2019-04-23] [07:54:27.511]		Handle errors
+277	[2019-04-23] [07:54:27.511]	Wait for: 1242
+278	[2019-04-23] [07:54:28.753]	Scrape: https://exist.ru/Price/?pid=CAB0A095
+279	[2019-04-23] [07:54:28.753]		Start scraper
+280	[2019-04-23] [07:54:28.761]	Get #priceBody.innerHTML
+281	[2019-04-23] [07:54:28.901]	Page scrape 29 analogs
+282	[2019-04-23] [07:54:28.902]	Scraping article: #18 345136 | category: Амортизаторы | https://exist.ru/Price/?pcode=345136
+283	[2019-04-23] [07:54:30.021]	https://exist.ru/Price/?pcode=345136 successfully opened
+284	[2019-04-23] [07:54:30.021]	Wait for: 1171
+285	[2019-04-23] [07:54:31.192]		Analyse page
+286	[2019-04-23] [07:54:31.194]		Handle errors
+287	[2019-04-23] [07:54:31.197]	Catalog links amount: 4
+288	[2019-04-23] [07:54:31.198]	Link: #1 https://exist.ru/Price/?pid=0C20E1FA
+289	[2019-04-23] [07:54:31.199]	Link: #2 https://exist.ru/Price/?pid=DBA0E0F0
+290	[2019-04-23] [07:54:31.199]	Link: #3 https://exist.ru/Price/?pid=AB005445
+291	[2019-04-23] [07:54:31.200]	Link: #4 https://exist.ru/Price/?pid=CAE0A095
+292	[2019-04-23] [07:54:31.200]	Category not found, download all links
+293	[2019-04-23] [07:54:31.200]	Go to: https://exist.ru/Price/?pid=0C20E1FA
+294	[2019-04-23] [07:54:32.694]	https://exist.ru/Price/?pid=0C20E1FA successfully opened
+295	[2019-04-23] [07:54:32.694]		Analyse page
+296	[2019-04-23] [07:54:32.698]		Handle errors
+297	[2019-04-23] [07:54:32.698]	Wait for: 1407
+298	[2019-04-23] [07:54:34.105]	Scrape: https://exist.ru/Price/?pid=0C20E1FA
+299	[2019-04-23] [07:54:34.105]		Start scraper
+300	[2019-04-23] [07:54:34.113]	Get #priceBody.innerHTML
+301	[2019-04-23] [07:54:34.127]	Page scrape 3 analogs
+302	[2019-04-23] [07:54:34.128]	Go to: https://exist.ru/Price/?pid=DBA0E0F0
+303	[2019-04-23] [07:54:35.535]	https://exist.ru/Price/?pid=DBA0E0F0 successfully opened
+304	[2019-04-23] [07:54:35.535]		Analyse page
+305	[2019-04-23] [07:54:35.537]		Handle errors
+306	[2019-04-23] [07:54:35.537]	Wait for: 1353
+307	[2019-04-23] [07:54:36.890]	Scrape: https://exist.ru/Price/?pid=DBA0E0F0
+308	[2019-04-23] [07:54:36.890]		Start scraper
+309	[2019-04-23] [07:54:36.898]	Get #priceBody.innerHTML
+310	[2019-04-23] [07:54:36.961]	Page scrape 9 analogs
+311	[2019-04-23] [07:54:36.961]	Go to: https://exist.ru/Price/?pid=AB005445
+312	[2019-04-23] [07:54:38.191]	https://exist.ru/Price/?pid=AB005445 successfully opened
+313	[2019-04-23] [07:54:38.191]		Analyse page
+314	[2019-04-23] [07:54:38.195]		Handle errors
+315	[2019-04-23] [07:54:38.195]	Wait for: 1302
+316	[2019-04-23] [07:54:39.497]	Scrape: https://exist.ru/Price/?pid=AB005445
+317	[2019-04-23] [07:54:39.497]		Start scraper
+318	[2019-04-23] [07:54:39.506]	Get #priceBody.innerHTML
+319	[2019-04-23] [07:54:39.521]	Page scrape 1 analogs
+320	[2019-04-23] [07:54:39.521]	Go to: https://exist.ru/Price/?pid=CAE0A095
+321	[2019-04-23] [07:54:41.414]	https://exist.ru/Price/?pid=CAE0A095 successfully opened
+322	[2019-04-23] [07:54:41.415]		Analyse page
+323	[2019-04-23] [07:54:41.417]		Handle errors
+324	[2019-04-23] [07:54:41.417]	Wait for: 1246
+325	[2019-04-23] [07:54:42.663]	Scrape: https://exist.ru/Price/?pid=CAE0A095
+326	[2019-04-23] [07:54:42.663]		Start scraper
+327	[2019-04-23] [07:54:42.671]	Get #priceBody.innerHTML
+328	[2019-04-23] [07:54:42.821]	Page scrape 28 analogs
+329	[2019-04-23] [07:54:42.821]	Scraping article: #19 345137 | category: Амортизаторы | https://exist.ru/Price/?pcode=345137
+330	[2019-04-23] [07:54:43.916]	https://exist.ru/Price/?pcode=345137 successfully opened
+331	[2019-04-23] [07:54:43.916]	Wait for: 1191
+332	[2019-04-23] [07:54:45.107]		Analyse page
+333	[2019-04-23] [07:54:45.109]		Handle errors
+334	[2019-04-23] [07:54:45.113]	Catalog links amount: 5
+335	[2019-04-23] [07:54:45.114]	Link: #1 https://exist.ru/Price/?pid=1130E1FA
+336	[2019-04-23] [07:54:45.115]	Link: #2 https://exist.ru/Price/?pid=8E1008E0
+337	[2019-04-23] [07:54:45.116]	Link: #3 https://exist.ru/Price/?pid=DD20E0F0
+338	[2019-04-23] [07:54:45.117]	Link: #4 https://exist.ru/Price/?pid=AC805445
+339	[2019-04-23] [07:54:45.118]	Link: #5 https://exist.ru/Price/?pid=CB10A095
+340	[2019-04-23] [07:54:45.118]	Category not found, download all links
+341	[2019-04-23] [07:54:45.118]	Go to: https://exist.ru/Price/?pid=1130E1FA
+342	[2019-04-23] [07:54:47.115]	https://exist.ru/Price/?pid=1130E1FA successfully opened
+343	[2019-04-23] [07:54:47.115]		Analyse page
+344	[2019-04-23] [07:54:47.127]		Handle errors
+345	[2019-04-23] [07:54:47.127]	Wait for: 1116
+346	[2019-04-23] [07:54:48.243]	Scrape: https://exist.ru/Price/?pid=1130E1FA
+347	[2019-04-23] [07:54:48.243]		Start scraper
+348	[2019-04-23] [07:54:48.252]	Get #priceBody.innerHTML
+349	[2019-04-23] [07:54:48.266]	Page scrape 3 analogs
+350	[2019-04-23] [07:54:48.266]	Go to: https://exist.ru/Price/?pid=8E1008E0
+351	[2019-04-23] [07:54:49.614]	https://exist.ru/Price/?pid=8E1008E0 successfully opened
+352	[2019-04-23] [07:54:49.615]		Analyse page
+353	[2019-04-23] [07:54:49.617]		Handle errors
+354	[2019-04-23] [07:54:49.617]	Wait for: 1312
+355	[2019-04-23] [07:54:50.929]	Scrape: https://exist.ru/Price/?pid=8E1008E0
+356	[2019-04-23] [07:54:50.929]		Start scraper
+357	[2019-04-23] [07:54:50.938]	Get #priceBody.innerHTML
+358	[2019-04-23] [07:54:50.948]	Page scrape 2 analogs
+359	[2019-04-23] [07:54:50.948]	Go to: https://exist.ru/Price/?pid=DD20E0F0
+360	[2019-04-23] [07:54:52.300]	https://exist.ru/Price/?pid=DD20E0F0 successfully opened
+361	[2019-04-23] [07:54:52.300]		Analyse page
+362	[2019-04-23] [07:54:52.301]		Handle errors
+363	[2019-04-23] [07:54:52.302]	Wait for: 1476
+364	[2019-04-23] [07:54:53.777]	Scrape: https://exist.ru/Price/?pid=DD20E0F0
+365	[2019-04-23] [07:54:53.778]		Start scraper
+366	[2019-04-23] [07:54:53.786]	Get #priceBody.innerHTML
+367	[2019-04-23] [07:54:53.826]	Page scrape 9 analogs
+368	[2019-04-23] [07:54:53.826]	Go to: https://exist.ru/Price/?pid=AC805445
+369	[2019-04-23] [07:54:54.973]	https://exist.ru/Price/?pid=AC805445 successfully opened
+370	[2019-04-23] [07:54:54.973]		Analyse page
+371	[2019-04-23] [07:54:54.982]		Handle errors
+372	[2019-04-23] [07:54:54.982]	Wait for: 1355
+373	[2019-04-23] [07:54:56.337]	Scrape: https://exist.ru/Price/?pid=AC805445
+374	[2019-04-23] [07:54:56.337]		Start scraper
+375	[2019-04-23] [07:54:56.346]	Get #priceBody.innerHTML
+376	[2019-04-23] [07:54:56.362]	Page scrape 1 analogs
+377	[2019-04-23] [07:54:56.362]	Go to: https://exist.ru/Price/?pid=CB10A095
+378	[2019-04-23] [07:54:58.466]	https://exist.ru/Price/?pid=CB10A095 successfully opened
+379	[2019-04-23] [07:54:58.466]		Analyse page
+380	[2019-04-23] [07:54:58.470]		Handle errors
+381	[2019-04-23] [07:54:58.470]	Wait for: 1400
+382	[2019-04-23] [07:54:59.870]	Scrape: https://exist.ru/Price/?pid=CB10A095
+383	[2019-04-23] [07:54:59.870]		Start scraper
+384	[2019-04-23] [07:54:59.878]	Get #priceBody.innerHTML
+385	[2019-04-23] [07:54:59.996]	Page scrape 23 analogs
+386	[2019-04-23] [07:54:59.997]	Scraping article: #20 350176 | category: Рычаги подвески | https://exist.ru/Price/?pcode=350176
+387	[2019-04-23] [07:55:01.126]	https://exist.ru/Price/?pcode=350176 successfully opened
+388	[2019-04-23] [07:55:01.126]	Wait for: 1389
+389	[2019-04-23] [07:55:02.516]		Analyse page
+390	[2019-04-23] [07:55:02.519]		Handle errors
+391	[2019-04-23] [07:55:02.530]	Catalog links amount: 12
+392	[2019-04-23] [07:55:02.531]	Link: #1 https://exist.ru/Price/?pid=1AD0690F
+393	[2019-04-23] [07:55:02.532]	Link: #2 https://exist.ru/Price/?pid=1B10AF13
+394	[2019-04-23] [07:55:02.532]	Link: #3 https://exist.ru/Price/?pid=AAE0AE7D
+395	[2019-04-23] [07:55:02.533]	Link: #4 https://exist.ru/Price/?pid=97B002D6
+396	[2019-04-23] [07:55:02.534]	Link: #5 https://exist.ru/Price/?pid=F4D0A285
+397	[2019-04-23] [07:55:02.534]	Link: #6 https://exist.ru/Price/?pid=B220A6E0
+398	[2019-04-23] [07:55:02.535]	Link: #7 https://exist.ru/Price/?pid=59C0654A
+399	[2019-04-23] [07:55:02.536]	Link: #8 https://exist.ru/Price/?pid=E640A7CA
+400	[2019-04-23] [07:55:02.537]	Link: #9 https://exist.ru/Price/?pid=E590BF5D
+401	[2019-04-23] [07:55:02.537]	Link: #10 https://exist.ru/Price/?pid=69608BB3
+402	[2019-04-23] [07:55:02.538]	Link: #11 https://exist.ru/Price/?pid=E15017BC
+403	[2019-04-23] [07:55:02.539]	Link: #12 https://exist.ru/Price/?pid=61C0B531
+404	[2019-04-23] [07:55:02.539]	Category not found, download all links
+405	[2019-04-23] [07:55:02.539]	Go to: https://exist.ru/Price/?pid=1AD0690F
+406	[2019-04-23] [07:55:04.136]	https://exist.ru/Price/?pid=1AD0690F successfully opened
+407	[2019-04-23] [07:55:04.136]		Analyse page
+408	[2019-04-23] [07:55:04.140]		Handle errors
+409	[2019-04-23] [07:55:04.141]	Wait for: 1338
+410	[2019-04-23] [07:55:05.479]	Scrape: https://exist.ru/Price/?pid=1AD0690F
+411	[2019-04-23] [07:55:05.479]		Start scraper
+412	[2019-04-23] [07:55:05.491]	Get #priceBody.innerHTML
+413	[2019-04-23] [07:55:05.572]	Page scrape 17 analogs
+414	[2019-04-23] [07:55:05.572]	Go to: https://exist.ru/Price/?pid=1B10AF13
+415	[2019-04-23] [07:55:07.442]	https://exist.ru/Price/?pid=1B10AF13 successfully opened
+416	[2019-04-23] [07:55:07.442]		Analyse page
+417	[2019-04-23] [07:55:07.450]		Handle errors
+418	[2019-04-23] [07:55:07.450]	Wait for: 1100
+419	[2019-04-23] [07:55:08.550]	Scrape: https://exist.ru/Price/?pid=1B10AF13
+420	[2019-04-23] [07:55:08.550]		Start scraper
+421	[2019-04-23] [07:55:08.559]	Get #priceBody.innerHTML
+422	[2019-04-23] [07:55:08.573]	Page scrape 1 analogs
+423	[2019-04-23] [07:55:08.573]	Go to: https://exist.ru/Price/?pid=AAE0AE7D
+424	[2019-04-23] [07:55:09.932]	https://exist.ru/Price/?pid=AAE0AE7D successfully opened
+425	[2019-04-23] [07:55:09.932]		Analyse page
+426	[2019-04-23] [07:55:09.936]		Handle errors
+427	[2019-04-23] [07:55:09.936]	Wait for: 1144
+428	[2019-04-23] [07:55:11.080]	Scrape: https://exist.ru/Price/?pid=AAE0AE7D
+429	[2019-04-23] [07:55:11.080]		Start scraper
+430	[2019-04-23] [07:55:11.088]	Get #priceBody.innerHTML
+431	[2019-04-23] [07:55:11.101]	Page scrape 1 analogs
+432	[2019-04-23] [07:55:11.102]	Go to: https://exist.ru/Price/?pid=97B002D6
+433	[2019-04-23] [07:55:12.333]	https://exist.ru/Price/?pid=97B002D6 successfully opened
+434	[2019-04-23] [07:55:12.334]		Analyse page
+435	[2019-04-23] [07:55:12.346]		Handle errors
+436	[2019-04-23] [07:55:12.346]	Wait for: 1154
+437	[2019-04-23] [07:55:13.500]	Scrape: https://exist.ru/Price/?pid=97B002D6
+438	[2019-04-23] [07:55:13.500]		Start scraper
+439	[2019-04-23] [07:55:13.509]	Get #priceBody.innerHTML
+440	[2019-04-23] [07:55:13.518]	Page scrape 1 analogs
+441	[2019-04-23] [07:55:13.518]	Go to: https://exist.ru/Price/?pid=F4D0A285
+442	[2019-04-23] [07:55:14.931]	https://exist.ru/Price/?pid=F4D0A285 successfully opened
+443	[2019-04-23] [07:55:14.932]		Analyse page
+444	[2019-04-23] [07:55:14.934]		Handle errors
+445	[2019-04-23] [07:55:14.934]	Wait for: 1096
+446	[2019-04-23] [07:55:16.030]	Scrape: https://exist.ru/Price/?pid=F4D0A285
+447	[2019-04-23] [07:55:16.030]		Start scraper
+448	[2019-04-23] [07:55:16.039]	Get #priceBody.innerHTML
+449	[2019-04-23] [07:55:16.141]	Page scrape 20 analogs
+450	[2019-04-23] [07:55:16.141]	Go to: https://exist.ru/Price/?pid=B220A6E0
+451	[2019-04-23] [07:55:17.977]	https://exist.ru/Price/?pid=B220A6E0 successfully opened
+452	[2019-04-23] [07:55:17.978]		Analyse page
+453	[2019-04-23] [07:55:17.981]		Handle errors
+454	[2019-04-23] [07:55:17.981]	Wait for: 1279
+455	[2019-04-23] [07:55:19.260]	Scrape: https://exist.ru/Price/?pid=B220A6E0
+456	[2019-04-23] [07:55:19.260]		Start scraper
+457	[2019-04-23] [07:55:19.268]	Get #priceBody.innerHTML
+458	[2019-04-23] [07:55:19.282]	Page scrape 1 analogs
+459	[2019-04-23] [07:55:19.282]	Go to: https://exist.ru/Price/?pid=59C0654A
+460	[2019-04-23] [07:55:21.167]	https://exist.ru/Price/?pid=59C0654A successfully opened
+461	[2019-04-23] [07:55:21.167]		Analyse page
+462	[2019-04-23] [07:55:21.169]		Handle errors
+463	[2019-04-23] [07:55:21.169]	Wait for: 1359
+464	[2019-04-23] [07:55:22.527]	Scrape: https://exist.ru/Price/?pid=59C0654A
+465	[2019-04-23] [07:55:22.528]		Start scraper
+466	[2019-04-23] [07:55:22.539]	Get #priceBody.innerHTML
+467	[2019-04-23] [07:55:22.890]	Page scrape 56 analogs
+468	[2019-04-23] [07:55:22.890]	Go to: https://exist.ru/Price/?pid=E640A7CA
+469	[2019-04-23] [07:55:24.114]	https://exist.ru/Price/?pid=E640A7CA successfully opened
+470	[2019-04-23] [07:55:24.114]		Analyse page
+471	[2019-04-23] [07:55:24.116]		Handle errors
+472	[2019-04-23] [07:55:24.117]	Wait for: 1252
+473	[2019-04-23] [07:55:25.369]	Scrape: https://exist.ru/Price/?pid=E640A7CA
+474	[2019-04-23] [07:55:25.369]		Start scraper
+475	[2019-04-23] [07:55:40.375]	#priceBody not found. Reload page: attempt 1
+476	[2019-04-23] [07:55:40.375]	Reload page.
+477	[2019-04-23] [07:55:42.812]		Analyse page
+478	[2019-04-23] [07:55:42.816]		Handle errors
+479	[2019-04-23] [07:55:57.818]	#priceBody not found. Reload page: attempt 2
+480	[2019-04-23] [07:55:57.818]	Reload page.
+481	[2019-04-23] [07:55:59.916]		Analyse page
+482	[2019-04-23] [07:55:59.920]		Handle errors
+483	[2019-04-23] [07:56:14.921]	#priceBody not found. Reload page: attempt 3
+484	[2019-04-23] [07:56:14.921]	Reload page.
+485	[2019-04-23] [07:56:17.009]		Analyse page
+486	[2019-04-23] [07:56:17.013]		Handle errors
+487	[2019-04-23] [07:56:17.013]	Get #priceBody.innerHTML
+488	[2019-04-23] [07:56:17.030]	Page scrape 1 analogs
+489	[2019-04-23] [07:56:17.030]	Go to: https://exist.ru/Price/?pid=E590BF5D
+490	[2019-04-23] [07:56:18.187]	https://exist.ru/Price/?pid=E590BF5D successfully opened
+491	[2019-04-23] [07:56:18.187]		Analyse page
+492	[2019-04-23] [07:56:18.191]		Handle errors
+493	[2019-04-23] [07:56:18.191]	Wait for: 1427
+494	[2019-04-23] [07:56:19.618]	Scrape: https://exist.ru/Price/?pid=E590BF5D
+495	[2019-04-23] [07:56:19.618]		Start scraper
+496	[2019-04-23] [07:56:34.619]	#priceBody not found. Reload page: attempt 1
+497	[2019-04-23] [07:56:34.619]	Reload page.
+498	[2019-04-23] [07:56:36.709]		Analyse page
+499	[2019-04-23] [07:56:36.715]		Handle errors
+500	[2019-04-23] [07:56:51.720]	#priceBody not found. Reload page: attempt 2
+501	[2019-04-23] [07:56:51.720]	Reload page.
+502	[2019-04-23] [07:56:53.522]		Analyse page
+503	[2019-04-23] [07:56:53.528]		Handle errors
+504	[2019-04-23] [07:57:08.529]	#priceBody not found. Reload page: attempt 3
+505	[2019-04-23] [07:57:08.529]	Reload page.
+506	[2019-04-23] [07:57:10.350]		Analyse page
+507	[2019-04-23] [07:57:10.358]		Handle errors
+508	[2019-04-23] [07:57:10.358]	Get #priceBody.innerHTML
+509	[2019-04-23] [07:57:10.376]	Page scrape 1 analogs
+510	[2019-04-23] [07:57:10.376]	Go to: https://exist.ru/Price/?pid=69608BB3
+511	[2019-04-23] [07:57:11.559]	https://exist.ru/Price/?pid=69608BB3 successfully opened
+512	[2019-04-23] [07:57:11.559]		Analyse page
+513	[2019-04-23] [07:57:11.568]		Handle errors
+514	[2019-04-23] [07:57:11.568]	Wait for: 1255
+515	[2019-04-23] [07:57:12.823]	Scrape: https://exist.ru/Price/?pid=69608BB3
+516	[2019-04-23] [07:57:12.823]		Start scraper
+517	[2019-04-23] [07:57:27.823]	#priceBody not found. Reload page: attempt 1
+518	[2019-04-23] [07:57:27.823]	Reload page.
+519	[2019-04-23] [07:57:29.890]		Analyse page
+520	[2019-04-23] [07:57:29.896]		Handle errors
+521	[2019-04-23] [07:57:44.900]	#priceBody not found. Reload page: attempt 2
+522	[2019-04-23] [07:57:44.900]	Reload page.
+523	[2019-04-23] [07:57:47.338]		Analyse page
+524	[2019-04-23] [07:57:47.344]		Handle errors
+525	[2019-04-23] [07:58:02.346]	#priceBody not found. Reload page: attempt 3
+526	[2019-04-23] [07:58:02.346]	Reload page.
+527	[2019-04-23] [07:58:04.417]		Analyse page
+528	[2019-04-23] [07:58:04.422]		Handle errors
+529	[2019-04-23] [07:58:04.423]	Get #priceBody.innerHTML
+530	[2019-04-23] [07:58:04.433]	Page scrape 1 analogs
+531	[2019-04-23] [07:58:04.433]	Go to: https://exist.ru/Price/?pid=E15017BC
+532	[2019-04-23] [07:58:06.504]	https://exist.ru/Price/?pid=E15017BC successfully opened
+533	[2019-04-23] [07:58:06.504]		Analyse page
+534	[2019-04-23] [07:58:06.509]		Handle errors
+535	[2019-04-23] [07:58:06.510]	Wait for: 1055
+536	[2019-04-23] [07:58:07.565]	Scrape: https://exist.ru/Price/?pid=E15017BC
+537	[2019-04-23] [07:58:07.565]		Start scraper
+538	[2019-04-23] [07:58:22.565]	#priceBody not found. Reload page: attempt 1
+539	[2019-04-23] [07:58:22.565]	Reload page.
+540	[2019-04-23] [07:58:24.622]		Analyse page
+541	[2019-04-23] [07:58:24.624]		Handle errors
+542	[2019-04-23] [07:58:39.625]	#priceBody not found. Reload page: attempt 2
+543	[2019-04-23] [07:58:39.625]	Reload page.
+544	[2019-04-23] [07:58:41.697]		Analyse page
+545	[2019-04-23] [07:58:41.701]		Handle errors
+546	[2019-04-23] [07:58:56.706]	#priceBody not found. Reload page: attempt 3
+547	[2019-04-23] [07:58:56.706]	Reload page.
+548	[2019-04-23] [07:58:58.721]		Analyse page
+549	[2019-04-23] [07:58:58.725]		Handle errors
+550	[2019-04-23] [07:58:58.725]	Get #priceBody.innerHTML
+551	[2019-04-23] [07:58:58.735]	Page scrape 1 analogs
+552	[2019-04-23] [07:58:58.735]	Go to: https://exist.ru/Price/?pid=61C0B531
+553	[2019-04-23] [07:59:00.068]	https://exist.ru/Price/?pid=61C0B531 successfully opened
+554	[2019-04-23] [07:59:00.068]		Analyse page
+555	[2019-04-23] [07:59:00.074]		Handle errors
+556	[2019-04-23] [07:59:00.074]	Wait for: 1360
+557	[2019-04-23] [07:59:01.434]	Scrape: https://exist.ru/Price/?pid=61C0B531
+558	[2019-04-23] [07:59:01.434]		Start scraper
+559	[2019-04-23] [07:59:16.435]	#priceBody not found. Reload page: attempt 1
+560	[2019-04-23] [07:59:16.435]	Reload page.
+561	[2019-04-23] [07:59:18.321]		Analyse page
+562	[2019-04-23] [07:59:18.324]		Handle errors
+563	[2019-04-23] [07:59:33.325]	#priceBody not found. Reload page: attempt 2
+564	[2019-04-23] [07:59:33.325]	Reload page.
+565	[2019-04-23] [07:59:35.359]		Analyse page
+566	[2019-04-23] [07:59:35.362]		Handle errors
+567	[2019-04-23] [07:59:50.362]	#priceBody not found. Reload page: attempt 3
+568	[2019-04-23] [07:59:50.363]	Reload page.
+569	[2019-04-23] [07:59:52.242]		Analyse page
+570	[2019-04-23] [07:59:52.245]		Handle errors
+571	[2019-04-23] [07:59:52.245]	Get #priceBody.innerHTML
+572	[2019-04-23] [07:59:52.260]	Page scrape 1 analogs
+573	[2019-04-23] [07:59:52.261]	Write XLSX to: files/source/articles.xlsx
+574	[2019-04-23] [07:59:52.303]	Write XLSX to: files/result/result.xlsx
+575	[2019-04-23] [07:59:52.388]	Script execution finished.
+576	[2019-04-23] [07:59:52.388]	***
+577	[2019-04-23] [08:03:28.406]	Exit program

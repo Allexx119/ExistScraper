@@ -1,0 +1,22 @@
+1	[2019-04-25] [09:04:41.162]	Start program
+2	[2019-04-25] [09:04:42.342]	Open: https://www.exist.ru
+3	[2019-04-25] [09:04:44.976]	https://www.exist.ru successfully opened
+4	[2019-04-25] [09:04:53.761]	Source files/source/articles.xlsx loaded, length: 684
+5	[2019-04-25] [09:04:53.762]	Start main sequence.
+6	[2019-04-25] [09:04:53.762]	Scraping https://www.exist.ru from article #1 326012
+7	[2019-04-25] [09:04:53.763]	Scraping https://www.exist.ru from article #2 328006
+8	[2019-04-25] [09:04:53.763]	Scraping https://www.exist.ru from article #3 328008
+9	[2019-04-25] [09:04:53.764]	Scraping article: #3 328008 | category: Выжимные подшипники | https://www.exist.ru/Price/?pcode=328008
+10	[2019-04-25] [09:04:56.113]	https://www.exist.ru/Price/?pcode=328008 successfully opened
+11	[2019-04-25] [09:04:56.114]	Wait for: 2851
+12	[2019-04-25] [09:04:58.965]		Analyse page
+13	[2019-04-25] [09:04:58.972]		Handle errors
+14	[2019-04-25] [09:04:58.998]	Catalog links amount: 4
+15	[2019-04-25] [09:04:59.000]	Link: #1 https://www.exist.ru/Price/?pid=F77047DA
+16	[2019-04-25] [09:04:59.001]	Link: #2 https://www.exist.ru/Price/?pid=9820068C
+17	[2019-04-25] [09:04:59.001]	Link: #3 https://www.exist.ru/Price/?pid=2A30654C
+18	[2019-04-25] [09:04:59.002]	Link: #4 https://www.exist.ru/Price/?pid=97B0A8BD
+19	[2019-04-25] [09:04:59.002]	Category not found, download all links
+20	[2019-04-25] [09:04:59.003]	Scraping https://www.exist.ru from article #4 328021
+21	[2019-04-25] [09:04:59.003]	Script execution finished.
+22	[2019-04-25] [09:04:59.003]	***

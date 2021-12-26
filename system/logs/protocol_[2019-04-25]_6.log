@@ -1,0 +1,24 @@
+1	[2019-04-25] [08:46:40.005]	Start program
+2	[2019-04-25] [08:46:42.733]	Open: https://www.exist.ru
+3	[2019-04-25] [08:47:20.436]	https://www.exist.ru successfully opened
+4	[2019-04-25] [08:52:48.242]	Source files/source/articles.xlsx loaded, length: 684
+5	[2019-04-25] [08:52:48.242]	Start main sequence.
+6	[2019-04-25] [08:52:48.242]	Scraping https://www.exist.ru from article #1 326012
+7	[2019-04-25] [08:52:48.243]	Scraping article: #1 326012 | category: Выжимные подшипники | https://www.exist.ru/Price/?pcode=326012
+8	[2019-04-25] [08:53:03.880]	https://www.exist.ru/Price/?pcode=326012 successfully opened
+9	[2019-04-25] [08:53:03.880]	Wait for: 2405
+10	[2019-04-25] [08:53:06.323]		Analyse page
+11	[2019-04-25] [08:53:06.332]		Handle errors
+12	[2019-04-25] [08:53:06.352]	Catalog links amount: 8
+13	[2019-04-25] [08:53:06.354]	Link: #1 https://www.exist.ru/Price/?pid=27606B9A
+14	[2019-04-25] [08:53:06.355]	Link: #2 https://www.exist.ru/Price/?pid=FA208E7D
+15	[2019-04-25] [08:53:06.356]	Link: #3 https://www.exist.ru/Price/?pid=57F0D215
+16	[2019-04-25] [08:53:06.356]	Link: #4 https://www.exist.ru/Price/?pid=8800068C
+17	[2019-04-25] [08:53:06.357]	Link: #5 https://www.exist.ru/Price/?pid=8EF07E11
+18	[2019-04-25] [08:53:06.358]	Link: #6 https://www.exist.ru/Price/?pid=F360BBF5
+19	[2019-04-25] [08:53:06.358]	Link: #7 https://www.exist.ru/Price/?pid=89A0B4E1
+20	[2019-04-25] [08:53:06.359]	Link: #8 https://www.exist.ru/Price/?pid=A3805A60
+21	[2019-04-25] [08:53:06.359]	Category not found, download all links
+22	[2019-04-25] [08:53:06.359]	Go to: https://www.exist.ru/Price/?pid=27606B9A
+23	[2019-04-25] [08:53:09.013]	Error: Navigation failed because browser has disconnected!
+24	[2019-04-25] [08:53:09.255]	Exit program

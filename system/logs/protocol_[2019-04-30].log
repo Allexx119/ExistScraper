@@ -1,0 +1,34 @@
+1	[2019-04-30] [18:28:14.819]	Start program
+2	[2019-04-30] [18:28:15.226]	Open: https://www.exist.ru
+3	[2019-04-30] [18:28:17.540]	https://www.exist.ru successfully opened
+4	[2019-04-30] [18:28:22.100]	Login successfully.
+5	[2019-04-30] [18:28:25.771]	Source files/source/articles.xlsx loaded, length: 684
+6	[2019-04-30] [18:28:25.772]	Start main sequence.
+7	[2019-04-30] [18:28:25.772]	Scraping https://www.exist.ru from article #1 326012
+8	[2019-04-30] [18:28:25.773]	Scraping article: #1 326012 | category: Выжимные подшипники | https://www.exist.ru/Price/?pcode=326012
+9	[2019-04-30] [18:28:26.325]	https://www.exist.ru/Price/?pcode=326012 successfully opened
+10	[2019-04-30] [18:28:26.325]	Wait for: 1444
+11	[2019-04-30] [18:28:27.734]	Script execution finished.
+12	[2019-04-30] [18:28:27.810]		Analyse page
+13	[2019-04-30] [18:28:27.812]		Handle errors
+14	[2019-04-30] [18:28:27.833]	Catalog links amount: 8
+15	[2019-04-30] [18:28:27.835]	Link: #1 https://www.exist.ru/Price/?pid=27606B9A
+16	[2019-04-30] [18:28:27.837]	Link: #2 https://www.exist.ru/Price/?pid=FA208E7D
+17	[2019-04-30] [18:28:27.838]	Link: #3 https://www.exist.ru/Price/?pid=57F0D215
+18	[2019-04-30] [18:28:27.839]	Link: #4 https://www.exist.ru/Price/?pid=8800068C
+19	[2019-04-30] [18:28:27.839]	Link: #5 https://www.exist.ru/Price/?pid=8EF07E11
+20	[2019-04-30] [18:28:27.840]	Link: #6 https://www.exist.ru/Price/?pid=F360BBF5
+21	[2019-04-30] [18:28:27.841]	Link: #7 https://www.exist.ru/Price/?pid=89A0B4E1
+22	[2019-04-30] [18:28:27.841]	Link: #8 https://www.exist.ru/Price/?pid=A3805A60
+23	[2019-04-30] [18:28:27.842]	Category not found, download all links
+24	[2019-04-30] [18:28:27.842]	***
+25	[2019-04-30] [18:28:27.842]	Script execution finished.
+26	[2019-04-30] [18:28:32.296]	Open: https://www.exist.ru
+27	[2019-04-30] [18:28:35.435]	Script execution finished.
+28	[2019-04-30] [18:28:36.400]	https://www.exist.ru successfully opened
+29	[2019-04-30] [18:28:39.793]	Login successfully.
+30	[2019-04-30] [18:28:39.794]	Source files/source/articles.xlsx loaded, length: 684
+31	[2019-04-30] [18:28:39.794]	Start main sequence.
+32	[2019-04-30] [18:28:39.794]	***
+33	[2019-04-30] [18:28:39.794]	Script execution finished.
+34	[2019-04-30] [18:28:41.527]	Exit program

@@ -1,0 +1,12 @@
+1	[2019-04-24] [08:39:34.017]	Start program
+2	[2019-04-24] [08:39:35.185]	Open: https://www.exist.ru
+3	[2019-04-24] [08:39:37.774]	https://www.exist.ru successfully opened
+4	[2019-04-24] [08:39:55.903]	Login successfully.
+5	[2019-04-24] [08:39:57.922]	Source files/source/articles.xlsx loaded, length: 684
+6	[2019-04-24] [08:39:57.922]	Results files/result/result.xlsx loaded, length: 3573
+7	[2019-04-24] [08:39:57.922]	Scraping https://www.exist.ru from article #75 1300266
+8	[2019-04-24] [08:39:57.923]	Start main sequence.
+9	[2019-04-24] [08:39:57.923]	Write XLSX to: files/source/articles.xlsx
+10	[2019-04-24] [08:39:58.121]	Write XLSX to: files/result/result.xlsx
+11	[2019-04-24] [08:39:58.379]	Script execution finished.
+12	[2019-04-24] [08:39:58.379]	***
